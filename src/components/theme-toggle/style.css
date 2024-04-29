@@ -1,0 +1,13 @@
+.icon-button {
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 10px 15px;
+    transition: 0.2s all;
+    position: absolute;
+}
+
+.icon-button:hover{
+    background-color: rgb(222, 222, 222);
+    transition: 0.2s all;
+}
